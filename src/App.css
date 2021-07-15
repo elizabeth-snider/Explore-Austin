@@ -1,0 +1,52 @@
+
+.App {
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  height: 20vh;
+  align-self: center;
+  width: 80%;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: 40vh;
+  align-self: center;
+  color: #2a6787;
+  font-size: 400%;
+  font-family: 'Courier New', monospace;
+  font-weight: 520;
+}
+
+.smallerText {
+  display: flex;
+  justify-content: center;
+  vertical-align: text-bottom;
+  margin: 0 auto;
+  align-self: center;
+  color: #2a6787;
+  font-size: 100%;
+  font-family: 'Courier New', monospace;
+  height: 10vh;
+}
+
+.bottomText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  align-self: center;
+  color: #2a6787;
+  font-size: 100%;
+  font-family: 'Courier New', monospace;
+  height: 20vh;
+}
+
