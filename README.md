@@ -3,3 +3,5 @@ A progressive web applicaiton for searching food, drinks, and activities in Aust
 Based on the Google Places API
 
 https://elizabeth-snider.github.io/Explore-Austin/
+
+Uses cors-anywhere: https://cors-anywhere.herokuapp.com/
