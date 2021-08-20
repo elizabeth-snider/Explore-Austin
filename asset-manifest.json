@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Explore-Austin/static/css/main.6e15e73e.chunk.css",
+    "main.js": "/Explore-Austin/static/js/main.94657cc9.chunk.js",
+    "main.js.map": "/Explore-Austin/static/js/main.94657cc9.chunk.js.map",
+    "runtime-main.js": "/Explore-Austin/static/js/runtime-main.5fd37d0b.js",
+    "runtime-main.js.map": "/Explore-Austin/static/js/runtime-main.5fd37d0b.js.map",
+    "static/css/2.26a97bd1.chunk.css": "/Explore-Austin/static/css/2.26a97bd1.chunk.css",
+    "static/js/2.23afe94f.chunk.js": "/Explore-Austin/static/js/2.23afe94f.chunk.js",
+    "static/js/2.23afe94f.chunk.js.map": "/Explore-Austin/static/js/2.23afe94f.chunk.js.map",
+    "static/js/3.f9c7a24a.chunk.js": "/Explore-Austin/static/js/3.f9c7a24a.chunk.js",
+    "static/js/3.f9c7a24a.chunk.js.map": "/Explore-Austin/static/js/3.f9c7a24a.chunk.js.map",
+    "index.html": "/Explore-Austin/index.html",
+    "static/css/2.26a97bd1.chunk.css.map": "/Explore-Austin/static/css/2.26a97bd1.chunk.css.map",
+    "static/css/main.6e15e73e.chunk.css.map": "/Explore-Austin/static/css/main.6e15e73e.chunk.css.map",
+    "static/js/2.23afe94f.chunk.js.LICENSE.txt": "/Explore-Austin/static/js/2.23afe94f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fd37d0b.js",
+    "static/css/2.26a97bd1.chunk.css",
+    "static/js/2.23afe94f.chunk.js",
+    "static/css/main.6e15e73e.chunk.css",
+    "static/js/main.94657cc9.chunk.js"
+  ]
+}
