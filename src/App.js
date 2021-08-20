@@ -2,26 +2,36 @@ import './App.css';
 import React from 'react';
 import{ AwesomeButton } from 'react-awesome-button';
 import 'react-awesome-button/dist/themes/theme-rickiest.css';
-import { Switch, Route, Link } from 'react-router-dom';
-import useReactRouter from 'use-react-router';
+import Skylight from 'react-skylight';
+import List from './API';
+import { Dates, Outdoor, Coffee, Brunch } from './Popups';
 
-export default function App() {
 
-  return (
+export default class App extends React.Component {
+  constructor(props){
+    super(props);
+  }
+
+  render() {
+    
+    return (
     <div>
       <Text></Text>
       <div className = "buttons">
-        <AwesomeButton type="primary">date nights 🌹</AwesomeButton>
-        <AwesomeButton type="primary">outdoor activities ☀️</AwesomeButton>
-        <AwesomeButton type="primary">coffee & tea ☕</AwesomeButton>
-        <AwesomeButton type="primary">brunch 🥐</AwesomeButton>
+        <Dates></Dates>
+        <Outdoor></Outdoor>
+        <Coffee></Coffee>
+        <Brunch></Brunch>
       </div>
       <div className = "bottomText">
         <p> ~ all locations are in austin, texas 📍 ~ </p>
       </div>
+      <div className = "api">
+      <p> - updated using the Google Places API - </p>
+      </div>
   </div>
   );
-}
+}}
 
 function Text() {
   return (
